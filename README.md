@@ -76,6 +76,6 @@ This project is for educational and internship use only.
 ---
 
 ## 🙋‍♂️ About Me
-**Arvinth Hari**  
+**A G Sriee Arvinth Raajhen**  
 Intern at WinVinaya Foundation  
 Passionate about using automation and AI for good.
